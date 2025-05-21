@@ -3,7 +3,7 @@
 
 Un bot Discord puissant et élégant pour surveiller vos serveurs de jeux Pterodactyl directement depuis Discord. Recevez des notifications en temps réel sur l'état de vos serveurs, les connexions et déconnexions des joueurs, et contrôlez tout depuis Discord.
 
-![Bot Preview](https://i.imgur.com/5rb6VgI.png)
+![Bot Preview](https://i.imgur.com/5rb6VgI.png https://i.imgur.com/AXwE9X6.png)
 
 ## ✨ Fonctionnalités
 
