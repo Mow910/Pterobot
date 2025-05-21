@@ -130,15 +130,6 @@ DISCONNECTION_PATTERNS = {
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues! N'hésitez pas à ouvrir une issue ou une pull request pour améliorer ce bot.
-
-1. Forkez ce dépôt
-2. Créez votre branche (`git checkout -b feature/amazing-feature`)
-3. Committez vos changements (`git commit -m 'Add some amazing feature'`)
-4. Poussez vers la branche (`git push origin feature/amazing-feature`)
-5. Ouvrez une Pull Request
 
 ## 🙏 Remerciements
 
