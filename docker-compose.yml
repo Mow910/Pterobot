@@ -1,0 +1,17 @@
+services:
+  discord-bot:
+    build: .
+    container_name: discord-pterodactyl-bot
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PTERODACTYL_API_URL=${PTERODACTYL_API_URL}
+      - PTERODACTYL_API_KEY=${PTERODACTYL_API_KEY}
+      - DISCORD_TOKEN=${DISCORD_TOKEN}
+      - NOTIFICATION_CHANNEL_ID=${NOTIFICATION_CHANNEL_ID}
+      - WHITELIST=${WHITELIST}
+      - CHECK_INTERVAL=${CHECK_INTERVAL}
+      - STATUS_UPDATE_INTERVAL=${STATUS_UPDATE_INTERVAL}
+      - SERVER_ICON=${SERVER_ICON}
+      - AUTO_POST_STATS=${AUTO_POST_STATS}
