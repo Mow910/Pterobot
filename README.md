@@ -30,7 +30,7 @@ Un bot Discord puissant et élégant pour surveiller vos serveurs de jeux Pterod
 1. **Clonez ce dépôt**
 
 ```bash
-git clone https://github.com/votre-username/pterodactyl-discord-bot.git
+git clone https://github.com/Mow910/Pterobot
 cd pterodactyl-discord-bot
 ```
 
